@@ -74,3 +74,9 @@ Mac和Linux环境有待验证。
 > Github：[Shufan Zhang](https://github.com/heywrcoding)  
 > 我的邮箱：[Gmail](mailto:sfzhang.cn@gmail.com)    
 > 如果喜欢此模板，希望你可以点个star哟！
+
+## 修改
+
+# ver 0.1 
+
+设置了Verilog语言的支持，添加了子图包，添加子图。
